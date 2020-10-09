@@ -4,6 +4,6 @@
 
 PoC/Alpha of scripts establishing a connection between two devices, allowing for one-way communication from the client to the server. 
 
-***Usage:***<br>
-Server: "server.py \<server ip> \<server port>"<br>
-Client: "client.py \<server ip> \<server port>"
+***Usage:***
+* Server: "server.py \<server ip> \<server port>"
+* Client: "client.py \<server ip> \<server port>"
