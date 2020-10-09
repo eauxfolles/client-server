@@ -5,13 +5,6 @@
 PoC/Alpha of scripts establishing a connection between two devices, allowing for one-way communication from the client to the server. 
 
 ***Usage:*** 
+
 Server: "server.py \<server ip> \<server port>"
-
-Where: 
-* \<image> is image-file.
-
-Supported image formats (and others, see https://pillow.readthedocs.io/en/stable/handbook/image-file-formats.html for details):
-* .bmp
-* .gif
-* .jpeg
-* .png
+Client: "client.py \<server ip> \<server port>"
