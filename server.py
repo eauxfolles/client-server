@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import socket
 
 SERVER_ADDRESS = input("Server IP: ")
