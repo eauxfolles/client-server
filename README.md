@@ -4,7 +4,8 @@
 
 PoC/Alpha of scripts establishing a connection between two devices, allowing for one-way communication from the client to the server. 
 
-***Usage:*** "mocr.py \<image>"
+***Usage:*** 
+Server: "server.py \<server ip> \<server port>"
 
 Where: 
 * \<image> is image-file.
